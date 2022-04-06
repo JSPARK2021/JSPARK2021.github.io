@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Enum 기초"
+date: 2022-03-31 00:00:05
 ---
 
 # JAVA Enum 기초
