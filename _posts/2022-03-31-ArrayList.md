@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JAVA ArrayList"
-date: 2022-03-31
+date: 2022-03-31 00:00:01
 ---
 
 # JAVA ArrayList 기초
