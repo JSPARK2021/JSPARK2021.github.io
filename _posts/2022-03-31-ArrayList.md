@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JAVA ArrayList"
+title:  "JAVA ArrayList 기초 1"
 date: 2022-03-31 00:00:01
 ---
 
