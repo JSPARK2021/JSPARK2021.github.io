@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "JAVA Casting 기초"
+date: 2022-03-31 00:00:07
 ---
 
 # JAVA Casting 기초
