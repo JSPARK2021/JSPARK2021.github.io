@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JAVA Switch문 기초"
-date: 2022-03-30 00:00:00
+date: 2022-04-07 00:01:00
 ---
 
 # JAVA Switch문 
